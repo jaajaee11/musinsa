@@ -8,8 +8,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.musinsa.fashionBoard.mapper.User;
 import com.musinsa.fashionBoard.mapper.UserMapper;
 
-import jakarta.servlet.http.HttpSession;
+
 import lombok.RequiredArgsConstructor;
+
+import javax.servlet.http.HttpSession;
 
 // 판매자에 해당하는 페이지 관리
 // 판매자페이지, 상품관리, 판매내역

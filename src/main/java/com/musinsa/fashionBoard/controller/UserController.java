@@ -16,8 +16,8 @@ import com.musinsa.fashionBoard.mapper.ItemMapper;
 import com.musinsa.fashionBoard.mapper.User;
 import com.musinsa.fashionBoard.mapper.UserMapper;
 
-import jakarta.servlet.http.HttpSession;
-import jakarta.websocket.Session;
+import javax.servlet.http.HttpSession;
+
 
 @Controller
 public class UserController {

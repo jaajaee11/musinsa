@@ -11,7 +11,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import com.musinsa.fashionBoard.mapper.FashionBoardMapper;
 import com.musinsa.fashionBoard.model.FashionBoardDTO;
 
-import jakarta.servlet.http.HttpSession;
+import javax.servlet.http.HttpSession;
+
 
 @Controller
 public class FashionBoroadController {
